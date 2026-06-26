@@ -5,7 +5,7 @@ I am a level 100 computer science student passionate about software engineering,
 ## About Me
 -** Education:** currently studying Computer Science at Accra Technical University.
 - **Coding: ** Learning and buiding projects using C++, Python,JavaScript,and C.
-- **Interests:** Deeply insterested in Cybersecurity framworks and AI development.
+- **Interests:** Deeply insterested in Cybersecurity framworks, AI developmentand Software Engineering
 - Latest Projects:** Just completed and uploaded a C++ Payroll calculator programe to GitHub!
 
 ## Tech Stack & Tools
